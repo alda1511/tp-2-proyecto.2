@@ -1,5 +1,5 @@
 # CAFE AROMA
-Aroma Café es una pagina web desarrollada para presentar una cafetería y sus productos.
+Café Aroma es una pagina web desarrollada para presentar una cafetería y sus productos.
 
 ## Funciones
 - Mostrar información sobre la cafetería.
